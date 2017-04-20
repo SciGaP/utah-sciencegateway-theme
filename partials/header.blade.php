@@ -1,4 +1,4 @@
-<title>Oklahoma Innovation Institute</title>
+<title>CHPC - Utah</title>
 <div id="navbar" class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
